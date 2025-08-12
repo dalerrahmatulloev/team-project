@@ -12,6 +12,10 @@ export const Layout = () => {
             </nav>
 
             <Outlet />
+
+            <footer>
+                footer
+            </footer>
         </div>
     )
 }
