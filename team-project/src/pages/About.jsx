@@ -43,7 +43,9 @@ export const About = () => {
     <a className="a4" href="">Knowledge Base</a>
     <a className="a4" href="">Academy</a>
     <a className="a4" href="">Support</a>
+    
    </div>
+console.log(wilefhlf);
 
     </>
 
