@@ -1,0 +1,677 @@
+.body {
+    background-color: rgba(255, 255, 255, 1);
+}
+.logo{
+    background-image: url('/img/Logo.png');
+    /* Logo */
+
+position: absolute;
+width: 140px;
+height: 66px;
+left: 101px;
+top: 26px;
+
+
+}
+.a7 {
+/* Navigation */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+position: absolute;
+width: 276px;
+height: 26px;
+left: 1090px;
+top: 45px;
+
+
+}
+.a5{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+position: absolute;
+width: 276px;
+height: 26px;
+left: 1190px;
+top: 45px;
+
+}
+
+.a6{
+    display: flex;
+    flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+position: absolute;
+width: 276px;
+height: 26px;
+left: 1290px;
+top: 45px;
+
+}
+.hr{
+    /* Line 68 */
+
+position: absolute;
+width: 70px;
+height: 0px;
+left: 1459px;
+top: 67px;
+
+border: 1px solid #000000;
+
+}
+.con{
+    /* Contact Us -> */
+
+position: absolute;
+width: 106px;
+height: 24px;
+left: 1455px;
+top: 45px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #000000;
+
+
+}
+
+.p{
+    /* Everything you need to get the attention of your audience */
+
+position: absolute;
+width: 959px;
+height: 258px;
+left: 120px;
+
+
+/* Heading/H1/Bold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 120%;
+/* or 86px */
+display: flex;
+align-items: center;
+letter-spacing: -3px;
+
+/* Neutral/100 */
+color: #1D1E25;
+margin-top: 195px;
+
+}
+.hr2{
+    /* Line 69 */
+
+position: absolute;
+width: 76px;
+height: 0px;
+left: 19px;
+top: 491px;
+
+border: 1px solid #000000;
+transform: rotate(180deg);
+
+}
+
+.p2{
+    /* Our digital agency helps clients develop, implement and maintain successful digital marketing strategies across all channels. Also work with you to build your website and create online businesses that grow. */
+
+position: absolute;
+width: 738px;
+height: 210px;
+left: 219px;
+top: 560px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 42px;
+/* or 131% */
+display: flex;
+align-items: center;
+letter-spacing: -1px;
+
+/* Neutral/100 */
+color: #1D1E25;
+
+
+}
+.logo2{
+    background-image: url('/img/Linked\ Path.png');
+    /* Linked Path  */
+
+position: absolute;
+width: 162px;
+height: 162px;
+left: 1131px;
+top: 562px;
+
+transform: rotate(-90deg);
+
+}
+.logo3{
+ background-image: url('/img/Content.png');
+ /* Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+isolation: isolate;
+
+position: absolute;
+width: 1574px;
+height: 634px;
+left: 140px;
+top: 896px;
+
+
+
+
+
+}
+.p3 {
+    width: 480px;
+    height: 134px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 120%;
+    display: flex;
+    align-items: center;
+    letter-spacing: -2px;
+    color: #1D1E25;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    position: relative;
+    top: 1790px;
+    left: 120px;
+}
+.p4{
+    /* We are a software development firm specializing in digital products. We build beautiful, functional and cross-platform solutions that are accessible to all. */
+
+width: 522px;
+height: 144px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 150%;
+/* or 36px */
+display: flex;
+align-items: center;
+
+/* Neutral/100 */
+color: #1D1E25;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+  margin-top: 1680px;
+    margin-left: 1048px;
+}
+ .p5{
+    /* Meet our team of creators, designers, and world-class problem solvers */
+
+width: 903px;
+height: 201px;
+
+/* Heading/H2/Semi Bold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 56px;
+line-height: 120%;
+/* or 67px */
+display: flex;
+align-items: center;
+letter-spacing: -2px;
+
+/* Neutral/100 */
+color: #1D1E25;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-top: 160px;
+margin-left: 120px;
+
+ }
+ .p6{
+    /* To become the company that customers want, it takes a group of passionate people. Get to know the people who lead */
+
+width: 534px;
+height: 64px;
+
+/* Heading/H6/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 32px;
+/* or 178% */
+display: flex;
+align-items: center;
+
+/* Neutral/60 */
+color: #7E8492;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin-left: 120px;
+margin-top: -20px;
+ }
+ .logo4{
+    background-image: url('/img/Frame\ 1171275207.png');
+    /* Frame 1171275207 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+isolation: isolate;
+
+width: 1200px;
+height: 521px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-top: 80px;
+margin-left: 120px;
+    /* Instagram Path */
+ }
+ .o9{
+    /* Join our team, The one with the master touch */
+
+width: 626px;
+height: 134px;
+
+/* Heading/H2/Semi Bold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 56px;
+line-height: 120%;
+/* or 67px */
+display: flex;
+align-items: center;
+letter-spacing: -2px;
+
+/* Neutral/100 */
+color: #1D1E25;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-top: 105px;
+margin-left: 120px;
+ }
+ .o{
+    /* We believe it takes great people to make a great product. That’s why we hire not only the perfect professional fits, but people who embody our company values. */
+
+width: 506px;
+height: 96px;
+
+/* Heading/H6/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 32px;
+/* or 178% */
+display: flex;
+align-items: center;
+
+/* Neutral/60 */
+color: #7E8492;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-top: -120px;
+margin-left: 847px;
+ }
+ .footer{
+background-color: black;
+width: 1440;
+height: 777;
+opacity: 1;
+margin-top: 162px;
+
+
+ }
+ .j{
+    /* Think beyond the wave */
+
+width: 720px;
+height: 77px;
+position: absolute;
+/* Heading/H2/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 120%;
+/* identical to box height, or 77px */
+display: flex;
+align-items: center;
+
+/* Neutral/10 */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+margin-left: 100px;
+top: 3390px;
+ }
+ .p10{
+    /* Ask about Sans products, pricing, implementation, or anything else. Our highly trained reps are standing by, ready to help */
+
+width: 543px;
+height: 64px;
+
+/* Heading/H6/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 32px;
+/* or 178% */
+display: flex;
+align-items: center;
+
+/* Neutral/50 */
+color: #AFB3BB;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+top: 3460px;
+position: absolute;
+left: 110px;
+ }
+ .button1{
+    /* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 32px;
+gap: 8px;
+
+margin: 0 auto;
+width: 177px;
+height: 56px;
+
+/* Neutral/10
+
+FFFFFF
+*/
+background: #FFFFFF;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin-left: 1320px;
+position: absolute;
+margin-top: 80px;
+ }
+ .photo{
+    background-image: url('/img/Logo\ \(1\).png');
+
+
+position: absolute;
+width: 140px;
+height: 66px;
+left: 120px;
+top: 3690px;
+
+
+ }
+.p11{
+    /* We built an elegant solution. Our team created a fully integrated sales and marketing solution for SMBs */
+
+position: absolute;
+width: 292px;
+height: 78px;
+left: 120px;
+top: 3750px;
+
+/* Body/Large/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+/* Neutral/60 */
+color: #7E8492;
+
+
+}
+.p12{
+    /* Company */
+
+width: 75px;
+height: 24px;
+
+/* Body/Large/Bold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+/* Neutral/10 */
+color: #FFFFFF;
+
+position: absolute;
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-left: 552px;
+margin-top: 370px;
+}
+.a1 {
+display: flex;
+    justify-content: center;
+    padding: 10px 0;
+top: 400px;
+left: -270px;
+position: relative;
+ color: #7E8492;
+}
+
+.p13{
+    /* Product */
+
+width: 63px;
+height: 24px;
+margin-top: 370px;
+/* Body/Large/Bold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+/* Neutral/10 */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-left: 724.33px;
+position: relative;
+}
+.a2{
+    /* Footer links */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 147px;
+height: 41px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+color: #7E8492;
+margin-left: 724.33px;
+}
+.p14{
+    /* Discover */
+margin-left: 964px;
+width: 70px;
+height: 24px;
+
+/* Body/Large/Bold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+/* Neutral/10 */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.a3{
+    /* Footer links *//* Footer links */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 136px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+color: #7E8492;
+margin-left: 964px;
+}
+.p15{
+/* Help Center */
+
+width: 94px;
+height: 24px;
+
+/* Body/Large/Bold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+/* Neutral/10 */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-left: 1194px;
+}
+.a4{
+    /* Footer links */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 126px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+color: #7E8492;
+margin-left: 1194px;
+}
