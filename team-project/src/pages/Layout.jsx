@@ -12,10 +12,14 @@ export const Layout = () => {
             </nav>
 
             <Outlet />
-
-            <footer>
-                footer
-            </footer>
+            <header>
+                 <div className="logo"></div>
+       <a href="" className="con">Contact Us</a>
+       <hr className="hr" />
+       <div />
+            </header>
+        
+          
         </div>
     )
 }
