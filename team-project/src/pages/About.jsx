@@ -17,35 +17,8 @@ export const About = () => {
 <div className="logo4"></div>
 <p className="o9">Join our team, The one with the master touch</p>
 <p className="o">We believe it takes great people to make a great product. That’s why we hire not only the perfect professional fits, but people who embody our company values.</p>
-   <div className="footer">
-    <p className="j">Think beyond the wave</p>
-    <p className="p10">Ask about Sans products, pricing, implementation, or anything else. Our highly trained reps are standing by, ready to help</p>
-  <button className="button1">Try for free</button>
-  <div className="photo"></div>
-  <p className="p11">We built an elegant solution. Our team created a fully integrated sales and marketing solution for SMBs</p>
-  <p className="p12">Company</p>
-  <a className="a1" href="">About</a>
-  <a className="a1" href="">Pricng</a>
-    <a className="a1" href="">Jobs</a>
-    <a className="a1" href="">Blog</a>
-    <p className="p13">Product</p>
-    <a className="a2" href="">Sales Software</a>
-    <a className="a2" href="">Marketplace</a>
-    <a className="a2" href="">Terms & Conditions</a>
-    <a className="a2" href="">Privacy Policy</a>
-    <p className="p14">Discover</p>
-    <a className="a3" href="">CRM Comparision</a>
-    <a className="a3"  href="">Partner Program</a>
-    <a className="a3" href="">What is CRM</a>
-    <a className="a3" href="">Resource</a>
-    <p className="p15">Help center</p>
-    <a className="a4" href="">Community</a>
-    <a className="a4" href="">Knowledge Base</a>
-    <a className="a4" href="">Academy</a>
-    <a className="a4" href="">Support</a>
-    
-   </div>
-console.log(wilefhlf);
+  
+
 
     </>
 
